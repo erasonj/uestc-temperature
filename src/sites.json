@@ -35,7 +35,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市常熟市",
+      "currentAddress": "广西壮族自治区玉林市北流市",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
